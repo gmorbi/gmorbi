@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, me chamo Giovane Morbi! 👋
+
+### Mais sobre mim
+
+[Linkedin](https://www.linkedin.com/in/giovane-morbi/)
+[Instagram](https://www.instagram.com/gmorbi/)
+[Twitter](https://twitter.com/giovanemorbi)
 
 <!--
 **gmorbi/gmorbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
