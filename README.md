@@ -1,6 +1,6 @@
 ### Olá, me chamo Giovane Morbi! 👋
 
-Desenvolvedor C#  
+Desenvolvedor .Net  
 
 ### Mais sobre mim
 
