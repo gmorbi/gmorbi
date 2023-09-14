@@ -4,9 +4,10 @@ Desenvolvedor .Net
 
 ### Mais sobre mim
 
-[Linkedin](https://www.linkedin.com/in/giovane-morbi/)  
-[Instagram](https://www.instagram.com/gmorbi/)  
-[Twitter](https://twitter.com/giovanemorbi)  
+
+<a href="https://www.linkedin.com/in/giovane-morbi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/gmorbi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/giovanemorbi" target="_blank"><img src="https://img.shields.io/twitter/follow/giovanemorbi?label=%40giovanemorbi" alt="Twitter"></a>
 
 <!--
 **gmorbi/gmorbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
